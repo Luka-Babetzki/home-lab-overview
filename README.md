@@ -28,7 +28,7 @@ This repository serves as the central hub for my home lab environment - a VMware
 
 **Related Projects:**
 - [Ticketing with Peppermint](https://github.com/Luka-Babetzki/ticketing-peppermint)
-- [Active Directory & User Management]()
+- [Active Directory & User Management](https://github.com/Luka-Babetzki/active-directory-and-user-management)
 
 ## Phase 2: Security Operations
 *Implementing monitoring and detection capabilities to understand how security events are logged, analysed, and responded to.*
